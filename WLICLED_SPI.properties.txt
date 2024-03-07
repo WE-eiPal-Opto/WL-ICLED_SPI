@@ -1,0 +1,9 @@
+name=WLICLED_SPI
+version=1.0.0
+author=Carlos Roberto Hernandez Gomez
+maintainer= Carlos Roberto Hernandez Gomez, carlosroberto.hernandezgomez@we-online.com
+sentence= Library to control SW ICLEDs using the SPI interface for the Arduino UNO 
+paragraph= Version 1.0.0 tested only for Arduino UNO, further programming for other MCUs is on planning.
+category= Device control
+url=https:TO BE UPDATED
+architectures=avr
